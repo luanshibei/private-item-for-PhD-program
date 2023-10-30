@@ -1,0 +1,16 @@
+###Consider the right boundary of PEOPT
+###Consider the left boundary of C60
+###Consider the right boundary of C60
+###Wavelength is from 400  to 700
+###10nm PEOPT and 60nm C60 can construct the optimal soalr cell
+###The intergarl of ICPE is 2352.163
+###The thickness of PEOPT	The thickness of C60	The total ICPE
+10	10	1071.86
+60	10	836.00
+110	10	587.82
+10	60	2352.16
+60	60	1983.16
+110	60	1650.33
+10	110	1047.73
+60	110	867.99
+110	110	679.49
